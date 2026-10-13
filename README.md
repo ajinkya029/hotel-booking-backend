@@ -127,7 +127,7 @@ Install the following before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hotel-booking-backend.git
+git clone https://github.com/ajinkya029/hotel-booking-backend.git
 cd hotel-booking-backend
 ```
 
